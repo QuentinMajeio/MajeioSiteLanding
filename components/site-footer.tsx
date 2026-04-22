@@ -36,7 +36,7 @@ export function SiteFooter() {
               <div className="mb-4 text-[11px] tracking-wider uppercase text-muted-foreground">Contact</div>
               <ul className="space-y-2.5 text-[14px]">
                 <li><a href="mailto:contact@majeio.fr" className="text-foreground hover:text-accent transition-colors">contact@majeio.fr</a></li>
-                                <li className="text-muted-foreground">47240 Castelculier · France</li>
+                                <li className="text-muted-foreground">France</li>
                 <li className="text-muted-foreground">Réponse sous 24h</li>
               </ul>
             </div>
